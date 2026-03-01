@@ -117,8 +117,8 @@ me.say_hi()
 - 📊 Desarrollando proyectos de **análisis de datos** con Python y visualizaciones
 - 🔐 Profundizando en **ciberseguridad ofensiva y defensiva**
 - 🤖 Explorando **MLOps** y despliegue de modelos en producción
-- 👯 Abierto a colaborar en proyectos de **Data Science o Ciberseguridad**
-- 💼 **Disponible para nuevas oportunidades laborales**
+- 👯 Desarrollando proyectos de **Data Science**
+
 
 ---
 
