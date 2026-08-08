@@ -68,21 +68,6 @@ me.say_hi()
 
 </div>
 
----
-
-## 🔐 Áreas de Especialización
-
-<div align="center">
-
-| 📊 Data Science & ML | 🔐 Ciberseguridad | ⚙️ Backend |
-|:---:|:---:|:---:|
-| Análisis Exploratorio | Análisis de Redes | APIs REST con FastAPI |
-| Visualización de Datos | OSINT | Arquitecturas Seguras |
-| Machine Learning | Evaluación de Vulnerabilidades | Autenticación & JWT |
-| Modelos Predictivos | Seguridad en Apps Web | Bases de Datos Relacionales |
-| Limpieza de Datos | Pentesting Básico | PostgreSQL Avanzado |
-
-</div>
 
 ---
 
