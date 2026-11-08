@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-label="Sección: Stack tecnológico">
+<defs>
+<linearGradient id="fondoe" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#060914"/><stop offset="1" stop-color="#0E1430"/>
+</linearGradient>
+<linearGradient id="bordee" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
+  <stop offset="0" stop-color="#22D3EE"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#F43F5E"/>
+  <animateTransform attributeName="gradientTransform" type="rotate" values="0 600.0 56.0;360 600.0 56.0" dur="10s" repeatCount="indefinite"/>
+</linearGradient>
+<pattern id="puntose" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#24305A"/></pattern>
+<linearGradient id="barrido" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+</linearGradient></defs>
+
+<rect x="1" y="1" width="1198" height="110" rx="18" fill="url(#fondoe)"/>
+<rect x="1" y="1" width="1198" height="110" rx="18" fill="url(#puntose)" opacity=".55"/>
+<rect x="1" y="1" width="1198" height="110" rx="18" fill="none" stroke="url(#bordee)" stroke-width="1.5" opacity=".8"/>
+<rect x="26" y="26" width="60" height="60" rx="16" fill="#0B1230" stroke="url(#bordee)" stroke-width="1.5"/>
+<g transform="translate(38 38) scale(1.5)" fill="none" stroke="#22D3EE" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 5-9 5-9-5z"/><path d="M3 13l9 5 9-5"/><path d="M3 17.5l9 5 9-5"/></g>
+<g opacity="0" transform="translate(-14 0)">
+  <text x="108" y="58" font-family="'Segoe UI Variable Display','Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="31" font-weight="700" fill="#E6EDF7">Stack tecnológico</text>
+  <text x="110" y="84" font-family="'Cascadia Code','JetBrains Mono','Fira Code',Consolas,'SF Mono',Menlo,monospace" font-size="14" fill="#94A3B8">// herramientas que uso a diario</text>
+  <animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.5s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin=".15s" dur=".6s" fill="freeze"/>
+</g>
+<g font-family="'Cascadia Code','JetBrains Mono','Fira Code',Consolas,'SF Mono',Menlo,monospace" font-size="14" text-anchor="end">
+  <text x="1081" y="62" fill="#94A3B8">$ cd</text>
+  <text x="1150" y="62" fill="#22D3EE" textLength="59">~/stack</text>
+</g>
+<rect x="1156" y="48" width="9" height="18" rx="1.5" fill="#22D3EE"><animate attributeName="opacity" values="1;0" dur="1s" calcMode="discrete" repeatCount="indefinite"/></rect>
+<line x1="108" y1="98" x2="1174" y2="98" stroke="#1E2945" stroke-width="1"/>
+<rect x="108" y="97" width="180" height="2" fill="url(#barrido)">
+  <animate attributeName="x" values="-180;1180" dur="3.6s" repeatCount="indefinite"/>
+</rect>
+</svg>

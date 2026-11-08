@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="590" height="420" viewBox="0 0 590 420" role="img" aria-label="Proyecto ERP empresarial en producción: usuarios, web en React 19, API en NestJS 12, PostgreSQL 18, Valkey 8 y S3. Módulos comercial, logística, finanzas y seguridad.">
+<defs>
+<linearGradient id="fondor" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#060914"/><stop offset="1" stop-color="#0E1430"/>
+</linearGradient>
+<linearGradient id="border" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="590" y2="0">
+  <stop offset="0" stop-color="#22D3EE"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#F43F5E"/>
+  <animateTransform attributeName="gradientTransform" type="rotate" values="0 295.0 210.0;360 295.0 210.0" dur="10s" repeatCount="indefinite"/>
+</linearGradient>
+<pattern id="puntosr" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#24305A"/></pattern>
+<filter id="brilloR" x="-50%" y="-50%" width="200%" height="200%">
+  <feGaussianBlur stdDeviation="2.5" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter></defs>
+
+<rect x="1" y="1" width="588" height="418" rx="20" fill="url(#fondor)"/>
+<rect x="1" y="1" width="588" height="418" rx="20" fill="url(#puntosr)" opacity=".55"/>
+<rect x="1" y="1" width="588" height="418" rx="20" fill="none" stroke="url(#border)" stroke-width="1.5" opacity=".8"/>
+<text x="28" y="56" font-family="'Segoe UI Variable Display','Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="27" font-weight="800" fill="#E6EDF7">ERP empresarial</text>
+<text x="28" y="80" font-family="'Cascadia Code','JetBrains Mono','Fira Code',Consolas,'SF Mono',Menlo,monospace" font-size="12.5" fill="#94A3B8">monolito modular · TypeScript de punta a punta</text>
+
+<rect x="408" y="30" width="154" height="30" rx="15" fill="#34D399" fill-opacity=".1" stroke="#34D399" stroke-opacity=".55"/>
+<circle cx="426" cy="45" r="4" fill="#34D399"/>
+<circle cx="426" cy="45" r="4" fill="none" stroke="#34D399">
+  <animate attributeName="r" values="4;11" dur="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0" dur="1.6s" repeatCount="indefinite"/>
+</circle>
+<text x="440" y="50" font-family="'Cascadia Code','JetBrains Mono','Fira Code',Consolas,'SF Mono',Menlo,monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#34D399">EN PRODUCCIÓN</text><path id="rutap" d="M72 200 H404 C 418 200, 418 130, 499 130" fill="none" stroke="#33416E" stroke-width="1.5" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="18;0" dur=".8s" repeatCount="indefinite"/></path><path id="rutav" d="M72 200 H499" fill="none" stroke="#33416E" stroke-width="1.5" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="18;0" dur=".8s" repeatCount="indefinite"/></path><path id="rutas" d="M72 200 H404 C 418 200, 418 270, 499 270" fill="none" stroke="#33416E" stroke-width="1.5" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="18;0" dur=".8s" repeatCount="indefinite"/></path><circle r="4" fill="#22D3EE" filter="url(#brilloR)"><animateMotion dur="2.6s" begin="0.00s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#rutap" xlink:href="#rutap"/></animateMotion></circle><circle r="4" fill="#8B5CF6" filter="url(#brilloR)"><animateMotion dur="2.6s" begin="1.30s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#rutap" xlink:href="#rutap"/></animateMotion></circle><circle r="4" fill="#22D3EE" filter="url(#brilloR)"><animateMotion dur="2.6s" begin="0.45s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#rutav" xlink:href="#rutav"/></animateMotion></circle><circle r="4" fill="#8B5CF6" filter="url(#brilloR)"><animateMotion dur="2.6s" begin="1.75s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#rutav" xlink:href="#rutav"/></animateMotion></circle><circle r="4" fill="#22D3EE" filter="url(#brilloR)"><animateMotion dur="2.6s" begin="0.90s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#rutas" xlink:href="#rutas"/></animateMotion></circle><circle r="4" fill="#8B5CF6" filter="url(#brilloR)"><animateMotion dur="2.6s" begin="2.20s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#rutas" xlink:href="#rutas"/></animateMotion></circle>
+<rect x="24" y="172" width="96" height="56" rx="11" fill="#0F1838" stroke="#2C3B6B"/>
+<text x="72.0" y="197.0" text-anchor="middle" font-family="'Segoe UI Variable Display','Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#E6EDF7">Usuarios</text>
+<text x="72.0" y="214.0" text-anchor="middle" font-family="'Cascadia Code','JetBrains Mono','Fira Code',Consolas,'SF Mono',Menlo,monospace" font-size="11" fill="#94A3B8">3 tipos</text>
+<rect x="150" y="172" width="106" height="56" rx="11" fill="#0F1838" stroke="#2C3B6B"/>
+<text x="203.0" y="197.0" text-anchor="middle" font-family="'Segoe UI Variable Display','Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#E6EDF7">Web</text>
+<text x="203.0" y="214.0" text-anchor="middle" font-family="'Cascadia Code','JetBrains Mono','Fira Code',Consolas,'SF Mono',Menlo,monospace" font-size="11" fill="#94A3B8">React 19</text>
+<rect x="286" y="172" width="106" height="56" rx="11" fill="#0F1838" stroke="#2C3B6B"/>
+<text x="339.0" y="197.0" text-anchor="middle" font-family="'Segoe UI Variable Display','Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#E6EDF7">API</text>
+<text x="339.0" y="214.0" text-anchor="middle" font-family="'Cascadia Code','JetBrains Mono','Fira Code',Consolas,'SF Mono',Menlo,monospace" font-size="11" fill="#94A3B8">NestJS 12</text>
+<rect x="432" y="106" width="134" height="48" rx="11" fill="#0F1838" stroke="#2C3B6B"/>
+<text x="499.0" y="127.0" text-anchor="middle" font-family="'Segoe UI Variable Display','Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#E6EDF7">PostgreSQL</text>
+<text x="499.0" y="144.0" text-anchor="middle" font-family="'Cascadia Code','JetBrains Mono','Fira Code',Consolas,'SF Mono',Menlo,monospace" font-size="11" fill="#94A3B8">18 · RLS</text>
+<rect x="432" y="176" width="134" height="48" rx="11" fill="#0F1838" stroke="#2C3B6B"/>
+<text x="499.0" y="197.0" text-anchor="middle" font-family="'Segoe UI Variable Display','Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#E6EDF7">Valkey</text>
+<text x="499.0" y="214.0" text-anchor="middle" font-family="'Cascadia Code','JetBrains Mono','Fira Code',Consolas,'SF Mono',Menlo,monospace" font-size="11" fill="#94A3B8">8 · caché</text>
+<rect x="432" y="246" width="134" height="48" rx="11" fill="#0F1838" stroke="#2C3B6B"/>
+<text x="499.0" y="267.0" text-anchor="middle" font-family="'Segoe UI Variable Display','Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#E6EDF7">S3</text>
+<text x="499.0" y="284.0" text-anchor="middle" font-family="'Cascadia Code','JetBrains Mono','Fira Code',Consolas,'SF Mono',Menlo,monospace" font-size="11" fill="#94A3B8">soportes PDF</text>
+<rect x="28.0" y="318" width="126.0" height="34" rx="10" fill="#22D3EE" fill-opacity=".08" stroke="#22D3EE" stroke-opacity=".35">
+  <animate attributeName="stroke-opacity" values=".35;1;.35;.35" keyTimes="0;.1;.25;1" dur="4s" begin="0s" repeatCount="indefinite"/>
+</rect>
+<text x="91.0" y="340" text-anchor="middle" font-family="'Segoe UI Variable Display','Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#22D3EE">Comercial</text>
+<rect x="164.0" y="318" width="126.0" height="34" rx="10" fill="#8B5CF6" fill-opacity=".08" stroke="#8B5CF6" stroke-opacity=".35">
+  <animate attributeName="stroke-opacity" values=".35;1;.35;.35" keyTimes="0;.1;.25;1" dur="4s" begin="1s" repeatCount="indefinite"/>
+</rect>
+<text x="227.0" y="340" text-anchor="middle" font-family="'Segoe UI Variable Display','Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#8B5CF6">Logística</text>
+<rect x="300.0" y="318" width="126.0" height="34" rx="10" fill="#FBBF24" fill-opacity=".08" stroke="#FBBF24" stroke-opacity=".35">
+  <animate attributeName="stroke-opacity" values=".35;1;.35;.35" keyTimes="0;.1;.25;1" dur="4s" begin="2s" repeatCount="indefinite"/>
+</rect>
+<text x="363.0" y="340" text-anchor="middle" font-family="'Segoe UI Variable Display','Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#FBBF24">Finanzas</text>
+<rect x="436.0" y="318" width="126.0" height="34" rx="10" fill="#34D399" fill-opacity=".08" stroke="#34D399" stroke-opacity=".35">
+  <animate attributeName="stroke-opacity" values=".35;1;.35;.35" keyTimes="0;.1;.25;1" dur="4s" begin="3s" repeatCount="indefinite"/>
+</rect>
+<text x="499.0" y="340" text-anchor="middle" font-family="'Segoe UI Variable Display','Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#34D399">Seguridad</text><text x="28" y="390" font-family="'Cascadia Code','JetBrains Mono','Fira Code',Consolas,'SF Mono',Menlo,monospace" font-size="12.5" fill="#94A3B8">13 módulos · permisos por rol · auditoría de cada cambio</text>
+</svg>
