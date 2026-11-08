@@ -1,123 +1,78 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Darwin%20Burbano&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Dev%20%7C%20Data%20Scientist%20%7C%20Cybersecurity%20Enthusiast&descAlignY=51&descSize=16"/>
+<img src="assets/portada.svg" width="100%" alt="Darwin Burbano, ingeniero de sistemas. Backend y full stack, inteligencia artificial aplicada a ECG y seguridad de aplicaciones."/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+intelligent+backends+%F0%9F%A4%96;Data+Analysis+%26+Machine+Learning+%F0%9F%93%8A;Cybersecurity+%7C+Ethical+Hacking+%F0%9F%94%90;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+React;From+Pasto%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4+to+the+world)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 👨‍💻 Sobre mí
-
-```python
-class DarwinBurbano:
-    def __init__(self):
-        self.name        = "Darwin David Burbano Guerrero"
-        self.username    = "EvoShell"
-        self.location    = "San Juan de Pasto, Colombia 🇨🇴"
-        self.roles       = ["Backend Developer", "Data Scientist", "ML Engineer"]
-        self.passions    = ["Cybersecurity 🔐", "Data Analysis 📊", "API Design ⚡"]
-        self.languages   = ["Python 🐍", "SQL", "JavaScript", "Bash"]
-        self.frameworks  = ["FastAPI", "React"]
-        self.databases   = ["PostgreSQL"]
-        self.sec_skills  = ["Network Analysis", "OSINT", "Vulnerability Assessment"]
-        self.open_to     = "Nuevas oportunidades y colaboraciones 🚀"
-
-    def say_hi(self):
-        print("¡Hola! Construyo soluciones inteligentes con datos y código seguro.")
-        print("Donde los datos se encuentran con la seguridad. 🔐📊")
-
-me = DarwinBurbano()
-me.say_hi()
-```
-
----
-
-## 🛠️ Stack Tecnológico
-
-<div align="center">
-
-### Lenguajes & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### Bases de Datos & DevOps
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 📊 Data Science & Machine Learning
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 🔐 Ciberseguridad
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+<a href="https://www.linkedin.com/in/darwin-burbano-10a158346"><img src="assets/btn-linkedin.svg" width="24%" alt="LinkedIn: darwin-burbano"/></a>
+<a href="mailto:evos.sys@gmail.com"><img src="assets/btn-correo.svg" width="24%" alt="Correo: evos.sys@gmail.com"/></a>
+<a href="https://huggingface.co/EvoShell"><img src="assets/btn-huggingface.svg" width="24%" alt="Hugging Face: EvoShell"/></a>
+<a href="https://ecg-forecasting.vercel.app"><img src="assets/btn-demo.svg" width="24%" alt="Demo en vivo: ECG Forecasting"/></a>
 
 </div>
 
+<br/>
 
----
+<img src="assets/seccion-sobre-mi.svg" width="100%" alt="Sobre mí"/>
 
-## 📊 Estadísticas de GitHub
+<img src="assets/terminal.svg" width="100%" alt="Darwin David Burbano Guerrero, Ingeniero de Sistemas de la Universidad CESMAG. Software empresarial de punta a punta, IA aplicada a señales biomédicas y seguridad de aplicaciones. San Juan de Pasto, Colombia."/>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvoShell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvoShell&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=EvoShell&theme=tokyonight&hide_border=true&background=0d1117&fire=00D9FF&ring=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div>
+<img src="assets/seccion-experiencia.svg" width="100%" alt="Experiencia"/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EvoShell&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff" width="100%"/>
-</div>
+<img src="assets/experiencia.svg" width="100%" alt="Desarrollador full stack en el área de sistemas de una distribuidora comercial en Nariño, Colombia. Diseño, construyo y opero el ERP web que reemplazó sistemas heredados y hojas de cálculo. Módulos a mi cargo: gestión comercial, proveedores, terceros, bodega y distribución, y plataforma."/>
 
----
+<img src="assets/erp-cifras.svg" width="100%" alt="Cifras del ERP: 13 módulos de negocio, más de 1.800 pruebas automatizadas, más de 100 migraciones SQL revisadas y 13 decisiones de arquitectura documentadas."/>
 
+<br/>
 
-## 🌱 Actualmente...
+<img src="assets/seccion-proyectos.svg" width="100%" alt="Proyectos"/>
 
-- 🔭 Construyendo **APIs seguras** con FastAPI + buenas prácticas de seguridad
-- 📊 Desarrollando proyectos de **análisis de datos** con Python y visualizaciones
-- 🔐 Profundizando en **ciberseguridad ofensiva y defensiva**
-- 🤖 Explorando **MLOps** y despliegue de modelos en producción
-- 👯 Desarrollando proyectos de **Data Science**
+<p align="center">
+  <img src="assets/proyecto-erp.svg" width="49%" alt="ERP empresarial en producción: web en React 19, API en NestJS 12, PostgreSQL 18, Valkey 8 y S3."/>
+  <a href="https://github.com/EvoShell/FORECASTING-ECG"><img src="assets/proyecto-ecg.svg" width="49%" alt="FORECASTING-ECG: red CNN-GRU con atención que prevé los latidos siguientes de un ECG. R² 0.6797."/></a>
+</p>
 
+<p align="center">
+  <sub><b>ERP</b> · código privado, en producción</sub>
+  &nbsp;&nbsp;│&nbsp;&nbsp;
+  <sub><b>FORECASTING-ECG</b> · <a href="https://ecg-forecasting.vercel.app">tablero en vivo</a> · <a href="https://evoshell-api-ecg-forecasting.hf.space/docs">API de inferencia</a> · <a href="https://github.com/EvoShell/FORECASTING-ECG">repositorio</a></sub>
+</p>
 
----
+<br/>
 
-## 📫 Conectemos
+<img src="assets/seccion-stack.svg" width="100%" alt="Stack tecnológico"/>
 
-<div align="center">
+<img src="assets/stack.svg" width="100%" alt="Backend: TypeScript, Node.js, NestJS, Fastify, Python, FastAPI, Zod. Frontend: React, Vite, TanStack, Tailwind, shadcn/ui, JavaScript. Datos e IA: PostgreSQL, Drizzle, Valkey, TensorFlow, scikit-learn, Pandas, NumPy, Matplotlib, Jupyter. Nube y DevOps: AWS, Docker, nginx, GitHub Actions, Turborepo, pnpm, Linux, Bash, Git. Calidad y seguridad: Vitest, Playwright, OWASP, Kali Linux, Wireshark, Metasploit, Nmap."/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-EvoShell-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EvoShell)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darwin%20Burbano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darwin-burbano-10a158346 )
-[![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](evos.sys@gmail.com)
+<br/>
 
-</div>
+<img src="assets/seccion-certificaciones.svg" width="100%" alt="Certificaciones"/>
 
----
+<p align="center">
+  <a href="https://coursera.org/verify/professional-cert/822ITI2ENS3X"><img src="assets/cert-google-ciberseguridad.svg" width="32%" alt="Certificado profesional de Ciberseguridad de Google, Coursera, marzo de 2026"/></a>
+  <a href="https://www.credly.com/badges/af00265f-49e7-4211-a40a-749441694eab/public_url"><img src="assets/cert-cisco-ciberseguridad.svg" width="32%" alt="Introduction to Cybersecurity, Cisco Networking Academy"/></a>
+  <a href="https://www.credly.com/badges/bce3c3dd-1d67-44f6-b998-4dfe9fa4271d/public_url"><img src="assets/cert-cisco-sistemas-operativos.svg" width="32%" alt="Operating Systems Basics, Cisco Networking Academy"/></a>
+</p>
 
-<div align="center">
+<br/>
 
-> *"Los datos son la nueva inteligencia, y la seguridad es su guardián."* 🔐📊
+<img src="assets/seccion-actividad.svg" width="100%" alt="Actividad"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=EvoShell&color=00D9FF&style=for-the-badge&label=VISITAS+AL+PERFIL)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EvoShell&theme=github_dark" width="49%" alt="Estadísticas de GitHub"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EvoShell&theme=github_dark" width="49%" alt="Repositorios por lenguaje"/>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EvoShell/EvoShell/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EvoShell/EvoShell/output/snake.svg"/>
+  <img src="https://raw.githubusercontent.com/EvoShell/EvoShell/output/snake.svg" width="100%" alt="Serpiente recorriendo el calendario de contribuciones"/>
+</picture>
 
-</div>
+<br/><br/>
+
+<a href="mailto:evos.sys@gmail.com"><img src="assets/cierre.svg" width="100%" alt="¿Construimos algo juntos? Gracias por visitar mi perfil. evos.sys@gmail.com"/></a>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=EvoShell&label=visitas&color=8B5CF6&style=flat-square" alt="Visitas al perfil"/></p>
+
+<p align="center"><sub>Los trazos de ECG de este perfil son señal real: registro 100 de la <a href="https://physionet.org/content/mitdb/1.0.0/">MIT-BIH Arrhythmia Database</a> (Moody y Mark, 2001), PhysioNet, licencia ODC-BY 1.0.</sub></p>
